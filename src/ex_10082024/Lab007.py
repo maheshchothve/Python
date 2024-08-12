@@ -7,5 +7,3 @@ sum=a+b+c
 sum=sum-15
 
 print(sum)
-
-print("thisis new code")
